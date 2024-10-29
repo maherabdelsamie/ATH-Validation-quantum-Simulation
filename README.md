@@ -1,5 +1,6 @@
 # Analysis of Active Time Hypothesis Validation Through Quantum Circuit Simulation
 
+Dr. Maher Abdelsamie<br>maherabdelsamie@gmail.com<br>
 
 Enhanced Validation Results Analysis:
 ===================================
